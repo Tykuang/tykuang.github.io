@@ -1,9 +1,9 @@
 # Site settings
 title: Hux Blog
-SEOTitle: Terry Kuang的博客 | Hux Blog
+SEOTitle: Terry Kuang的博客 | Terry Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | DSV
+description: "这里是 TYK 的个人博客，与你一起发现更大的世界 | DSV
 keyword: "货代人"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
+weibo_username: 123
+zhihu_username: 132
+github_username: 133
+twitter_username: 134
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
